@@ -5,3 +5,6 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sjoertjuh&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&layout=compact&hide_title=true)
+
+
+![nom nom](https://user-images.githubusercontent.com/63722509/147670954-a3ecf2be-3dc8-4127-be0e-122be0856f32.gif)
