@@ -2,6 +2,6 @@
 
 #### Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sjoertjuh)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sjoertjuh&show_icons=true&count_private=true&hide_title=true)
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&layout=compact)
