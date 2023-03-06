@@ -6,7 +6,8 @@
 
 ## I like these things
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,html,css,vue,nuxtjs,php,laravel,cpp&theme=dark)](https://sjoertjuh.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,html,css,vue,nuxtjs,php,laravel,cpp&theme=dark#gh-dark-mode-only)](https://sjoertjuh.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,html,css,vue,nuxtjs,php,laravel,cpp&theme=light#gh-light-mode-only)](https://sjoertjuh.dev)
 
 ## My Statistics
 
