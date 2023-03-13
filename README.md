@@ -8,7 +8,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cjs%2Cts%2Chtml%2Ccss%2Cvue%2Cnuxtjs%2Cphp%2Claravel%2Ccpp&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nodejs%2Cjs%2Cts%2Chtml%2Ccss%2Cvue%2Cnuxtjs%2Cphp%2Claravel%2Ccpp&theme=light?">
+  <img src="https://skillicons.dev/icons?i=nodejs%2Cjs%2Cts%2Chtml%2Ccss%2Cvue%2Cnuxtjs%2Cphp%2Claravel%2Ccpp&theme=light">
 </picture>
 
 ## My Statistics
