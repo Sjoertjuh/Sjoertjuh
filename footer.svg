@@ -83,7 +83,7 @@
       </style>
 
       <div class="container">
-        <h1>For some reason GitHub supports<br>custom CSS in README's</h1>
+        <h1>For some reason GitHub supports<br/>custom CSS in README's</h1>
 
         <p>So I'll just put this here</p>
       </div>
