@@ -34,4 +34,12 @@
   <img src="https://user-images.githubusercontent.com/63722509/147670954-a3ecf2be-3dc8-4127-be0e-122be0856f32.gif" alt="nom nom" width="270" height="270">
 </a>
 
-<img alt="Footer" src="footer.svg">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img alt="Footer" src="footer.svg">
+</p>
