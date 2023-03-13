@@ -2,7 +2,7 @@
 
 # Hey there!
 
-[![Cool Header Stuff](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=D4FF7A&width=435&lines=Seriously+doing+unserious+stuff)](https://sjoertjuh.dev)
+[![Cool Header Stuff](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1500&color=D4FF7A&width=456&lines=Seriously+doing+unserious+stuff;Wizkid+%40+OWOW+%E2%9D%A4%EF%B8%8F)](https://sjoertjuh.dev)
 
 ## I like these things
 
