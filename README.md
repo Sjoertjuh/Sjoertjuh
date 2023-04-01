@@ -1,3 +1,5 @@
+<img align="center" alt="Header animation" src=".github/coding-animation.svg">
+
 <img align="right" width="400" alt="Have you tried turning it off and on again?" src="https://user-images.githubusercontent.com/63722509/147647719-8858583d-d1a0-4245-b655-6267123e4293.gif">
 
 # Hey there!
@@ -41,5 +43,5 @@
 <br>
 
 <p align="center">
-  <img alt="Footer" src="footer.svg">
+  <img alt="Footer" src=".github/footer.svg">
 </p>
