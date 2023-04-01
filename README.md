@@ -2,8 +2,6 @@
   <img width="400" height="400" alt="Header animation" src=".github/coding-animation.svg">
 </div>
 
-<img align="right" width="400" alt="Have you tried turning it off and on again?" src="https://user-images.githubusercontent.com/63722509/147647719-8858583d-d1a0-4245-b655-6267123e4293.gif">
-
 # Hey there!
 
 [![Cool Header Stuff](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1500&color=D4FF7A&width=456&lines=Seriously+doing+unserious+stuff;Wizkid+%40+OWOW+%E2%9D%A4%EF%B8%8F)](https://sjoertjuh.dev/)
