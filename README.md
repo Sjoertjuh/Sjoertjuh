@@ -1,4 +1,6 @@
-<img align="center" width="400" height="400" alt="Header animation" src=".github/coding-animation.svg">
+<div align="center">
+  <img width="400" height="400" alt="Header animation" src=".github/coding-animation.svg">
+</div>
 
 <img align="right" width="400" alt="Have you tried turning it off and on again?" src="https://user-images.githubusercontent.com/63722509/147647719-8858583d-d1a0-4245-b655-6267123e4293.gif">
 
