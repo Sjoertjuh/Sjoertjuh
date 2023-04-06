@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="400" height="400" alt="Header animation" src=".github/coding-animation.svg">
+  <picture>
+    <img width="400" height="400" alt="Header animation" src=".github/coding-animation.svg">
+  </picture>
 </div>
 
 # Hey there!
