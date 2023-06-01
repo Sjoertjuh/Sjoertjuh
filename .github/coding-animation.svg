@@ -16,6 +16,10 @@
         #background {fill: #0d1117}
         #laptop-touchpad {fill: #3c3d40}
 
+        @media (max-width: 543px) {
+          #background {fill: #161b22}
+        }
+
         .cls-1 {fill: #2c2d2e}
         .cls-2 {fill: #000}
         .cls-3 {fill: #252628}
