@@ -16,7 +16,7 @@
         #background {fill: #0d1117}
         #laptop-touchpad {fill: #3c3d40}
 
-        @media (max-width: 543px) {
+        @media (max-width: 399px) {
           #background {fill: #161b22}
         }
 
