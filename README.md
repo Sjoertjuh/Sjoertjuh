@@ -38,6 +38,10 @@
   <img src="https://user-images.githubusercontent.com/63722509/147670954-a3ecf2be-3dc8-4127-be0e-122be0856f32.gif" alt="nom nom" width="270" height="270">
 </a>
 
+<a rel="me" href="https://sjoertjuh.dev"></a>
+<a rel="me" href="https://fosstodon.org/@Sjoertjuh"></a>
+
+<!--
 <br>
 <br>
 <br>
@@ -47,3 +51,4 @@
 <p align="center">
   <img alt="Footer" src=".github/footer.svg">
 </p>
+-->
