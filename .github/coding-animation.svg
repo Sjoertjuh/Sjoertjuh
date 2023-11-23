@@ -2,6 +2,7 @@
 <svg viewBox="0 0 500 500" width="800" height="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
+      #background {fill: #fff}
       #laptop-touchpad {fill: #c3c6d1}
 
       .cls-1 {fill: #b1b4c4}
@@ -12,6 +13,7 @@
       .cls-7 {fill: #757b89}
 
       @media (prefers-color-scheme: dark) {
+        #background {fill: #0d1117}
         #laptop-touchpad {fill: #3c3d40}
 
         @media (max-width: 399px) {
