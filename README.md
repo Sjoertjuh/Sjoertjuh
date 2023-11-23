@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="Header animation" src=".github/coding-animation.svg">
+    <img width="400" alt="Header animation" src=".github/coding-animation.svg">
   </picture>
 </div>
 
