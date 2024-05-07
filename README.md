@@ -11,7 +11,7 @@
 ## I like these things
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cjs%2Cts%2Chtml%2Ccss%2Cvue%2Cnuxtjs%2Cphp%2Claravel%2Ccpp&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cvue%2Cnuxtjs%2Cphp%2Claravel&theme=dark">
   <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cvue%2Cnuxtjs%2Cphp%2Claravel&theme=light">
 </picture>
 
