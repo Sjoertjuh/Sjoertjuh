@@ -6,13 +6,13 @@
 
 # Hey there!
 
-[![Cool Header Stuff](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1500&color=D4FF7A&width=456&lines=Seriously+doing+unserious+stuff;Wizkid+%40+OWOW+%E2%9D%A4%EF%B8%8F)](https://sjoertjuh.dev/)
+[![Wizkid @ OWOW](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1500&color=D4FF7A&width=456&lines=Seriously+doing+unserious+stuff;Wizkid+%40+OWOW+%E2%9D%A4%EF%B8%8F)](https://sjoertjuh.dev/)
 
 ## I like these things
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cjs%2Cts%2Chtml%2Ccss%2Cvue%2Cnuxtjs%2Cphp%2Claravel%2Ccpp&theme=dark">
-  <img src="https://skillicons.dev/icons?i=nodejs%2Cjs%2Cts%2Chtml%2Ccss%2Cvue%2Cnuxtjs%2Cphp%2Claravel%2Ccpp&theme=light">
+  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cvue%2Cnuxtjs%2Cphp%2Claravel&theme=light">
 </picture>
 
 ## My Statistics
@@ -20,11 +20,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sjoertjuh&hide_border=true&theme=dark">
   <img alt="My GitHub Streak" src="https://streak-stats.demolab.com/?user=Sjoertjuh&hide_border=true">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sjoertjuh&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide_border=true&theme=dark">
-  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sjoertjuh&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide_border=true">
 </picture>
 <br>
 <picture>
