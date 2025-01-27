@@ -18,13 +18,12 @@
 ## My Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sjoertjuh&hide_border=true&theme=dark">
-  <img alt="My GitHub Streak" src="https://streak-stats.demolab.com/?user=Sjoertjuh&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sjoertjuh&hide_title=true&show_icons=true&hide_border=true&theme=dark">
+  <img height="180" alt="My GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Sjoertjuh&hide_title=true&show_icons=true&hide_border=true&theme=default">
 </picture>
-<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&layout=compact&hide_title=true&hide_border=true&theme=dark">
-  <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&layout=compact&hide_title=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320&theme=dark">
+  <img height="180" alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320">
 </picture>
 
 ### Enjoy this duck
