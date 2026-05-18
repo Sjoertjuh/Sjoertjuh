@@ -18,13 +18,13 @@
 ## My Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sjoertjuh&hide_title=true&show_icons=true&hide_border=true&theme=dark">
-  <img height="180" alt="My GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Sjoertjuh&hide_title=true&show_icons=true&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sjoertjuh&theme=merko&hide_border=true">
+  <img height="180" alt="My GitHub Streak" src="https://streak-stats.demolab.com?user=Sjoertjuh&theme=buefy&hide_border=true">
 </picture>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320&theme=dark">
   <img height="180" alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320">
-</picture>
+</picture> -->
 
 ### Enjoy this duck
 
