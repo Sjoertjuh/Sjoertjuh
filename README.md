@@ -18,12 +18,14 @@
 ## My Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sjoertjuh&theme=merko&hide_border=true">
-  <img height="180" alt="My GitHub Streak" src="https://streak-stats.demolab.com?user=Sjoertjuh&theme=buefy&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sjoertjuh&include_all_commits=true&hide_title=true&hide_rank=true&show_icons=true&hide_border=true&theme=dark">
+  <img height="180" alt="My GitHub Streak" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sjoertjuh&include_all_commits=true&hide_title=true&hide_rank=true&show_icons=true&hide_border=true&theme=default">
 </picture>
+
+<!-- I don't have any good public repos :) -->
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320&theme=dark">
-  <img height="180" alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320">
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320&theme=dark">
+  <img height="180" alt="My Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sjoertjuh&hide_title=true&langs_count=8&hide_border=true&card_width=320">
 </picture> -->
 
 ### Enjoy this duck
@@ -35,8 +37,7 @@
 <a rel="me" href="https://sjoertjuh.dev"></a>
 <a rel="me" href="https://fosstodon.org/@Sjoertjuh"></a>
 
-<!--
-<br>
+<!-- <br>
 <br>
 <br>
 <br>
@@ -44,5 +45,4 @@
 
 <p align="center">
   <img alt="Footer" src=".github/footer.svg">
-</p>
--->
+</p> -->
